@@ -1,0 +1,23 @@
+file 12836 1619383518                                           
+version 2
+run General-0-20210425-17:43:27-16292
+attr configname General
+attr datetime 20210425-17:43:27
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network Rede
+attr processid 16292
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 0 Rede.servidor tempoServico ETV
+vector 1 Rede.servidor fila ETV
+0	442 4724 82 960 0.3 101.56 240 0.002 2.198 101.624 80.272274
+1	5166 7668 82 961 0.3 101.924 480 0 198 48369 6331879
+
